@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elio Khawand</h1>
 <h3 align="center">AI Enthusiast 🚀 | Exploring the Frontiers of Innovation from Lebanon</h3>
 
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1HjcEZ5IGAd47p77JD46OMdK_NGtme5IL/view?usp=drive_link
-">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliokh&label=Profile%20views&color=0e75b6&style=flat" alt="eliokh" /> </p>
