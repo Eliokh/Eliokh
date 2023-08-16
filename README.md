@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Elio Khawand</h1>
+![image](https://github.com/Eliokh/Eliokh/assets/101398474/f1cd35bf-e9d3-479d-8a04-66c58fa1489a)<h1 align="center">Hi 👋, I'm Elio Khawand</h1>
 <h3 align="center">AI Enthusiast 🚀 | Exploring the Frontiers of Innovation from Lebanon</h3>
 
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHV5Y2gyODU3eDYzMGo2ZDFva2h6bXV2MXY1ZGp4cG5kNzBzdXB3byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Eliokh/Eliokh/assets/101398474/4329c6e6-2c32-4dd3-83c4-0f0981d2002a)
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliokh&label=Profile%20views&color=0e75b6&style=flat" alt="eliokh" /> </p>
 
