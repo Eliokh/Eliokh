@@ -2,7 +2,7 @@
 <h3 align="center">AI Enthusiast 🚀 | Exploring the Frontiers of Innovation from Lebanon</h3>
 
 <img align="right" alt="coding" width="400" src="![image](https://github.com/Eliokh/Eliokh/assets/101398474/4329c6e6-2c32-4dd3-83c4-0f0981d2002a)
-"
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliokh&label=Profile%20views&color=0e75b6&style=flat" alt="eliokh" /> </p>
 
