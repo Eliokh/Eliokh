@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Eliokh/Eliokh/blob/main/elio%20khawand.png)
 
 <h1 align="center">Hi 👋, I'm Elio Khawand</h1>
 <h3 align="center">AI Enthusiast 🚀 | Exploring the Frontiers of Innovation from Lebanon</h3>
