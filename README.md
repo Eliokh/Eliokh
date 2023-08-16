@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elio Khawand</h1>
 <h3 align="center">AI Enthusiast 🚀 | Exploring the Frontiers of Innovation from Lebanon</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Eliokh/Eliokh/assets/101398474/dafc68e8-4e8f-4c1f-a1a4-354613526adc)
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif
 ">
 
 
