@@ -1,3 +1,5 @@
+![logo]()
+
 <h1 align="center">Hi 👋, I'm Elio Khawand</h1>
 <h3 align="center">AI Enthusiast 🚀 | Exploring the Frontiers of Innovation from Lebanon</h3>
 
